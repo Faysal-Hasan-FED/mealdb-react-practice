@@ -1,0 +1,22 @@
+.meal{
+    display: flex;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.purchase-btn{
+    background-color: goldenrod;
+    width: 150px;
+    height: 28px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.purchase-btn:hover{
+    background-color: lightgray;
+}
